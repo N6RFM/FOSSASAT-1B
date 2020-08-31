@@ -1,8 +1,8 @@
 # FOSSASAT-1B sketch modified by N6RFM
 
-The sketches for Fossast-1b and 2 appear to have been deprecated in favor of Qt based interface. https://github.com/FOSSASystems/FOSSA-GroundStationControlPanel
+The Arduino sketches for Fossast-1b and 2 appear to have been deprecated in favor of Qt based interface. https://github.com/FOSSASystems/FOSSA-GroundStationControlPanel
 
-For those who desire to keep the terminal based approach, this repo contains an verion for Fossasat-1B adapted for my station.
+For those who desire to keep the terminal based approach, this repo includes a sketch version for Fossasat-1B adapted for my station.
 
 
 [![Build Status](https://github.com/FOSSASystems/FOSSASAT-1B/workflows/CI/badge.svg)](https://github.com/FOSSASystems/FOSSASAT-1B/actions)
